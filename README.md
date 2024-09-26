@@ -52,3 +52,16 @@ To install these packages, run:
 
 ```r
 install.packages(c("dplyr", "caret", "readr", "yardstick", "pROC", "boot"))
+
+## Future Improvements
+
+1. **Testing additional machine learning models**: Such as Random Forest or Gradient Boosting to compare performance.
+2. **Feature Engineering**: Explore new features like interaction terms between demographics and driving history.
+3. **Model Deployment**: Implement the model in a web application for real-time predictions.
+
+## Contact
+
+If you have any questions or suggestions, feel free to contact me:
+
+- **Name**: Francesco Romano
+- **LinkedIn**: [Francesco Romano](https://www.linkedin.com/in/drfrancescoromano)
