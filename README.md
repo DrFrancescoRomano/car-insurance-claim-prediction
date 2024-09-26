@@ -31,6 +31,30 @@ The dataset consists of several features related to the customer’s demographic
 - Model accuracy: **85.45%**
 - Area under ROC curve (AUC): **0.909**
 
+
+## Interactive Dashboard
+
+In addition to the predictive model, I developed an interactive dashboard to provide insightful visualizations of the data. The dashboard is built using the `flexdashboard` package in R and displays key statistics and data visualizations to help insurance companies better understand the relationship between various features and insurance claims.
+
+### Features of the Dashboard:
+- **Visualizations**: Includes bar charts, scatter plots, and value boxes to display important metrics like mean income, credit score, and vehicle ownership.
+- **Data Table**: Displays a comprehensive view of the data, allowing users to filter and explore different variables.
+- **Interactive Tabs**: Users can navigate between different sections to explore data visualizations, summaries, and specific metrics related to the dataset.
+
+### How to Access the Dashboard:
+To view the interactive dashboard, open the `dashboard_carInsurance.html` file located in the repository. You can open the HTML file directly in any modern web browser to interact with the dashboard.
+
+## Repository Structure
+
+- `ModellingCarInsurance_.R`: Main R script used for data preprocessing, model training, and evaluation.
+- `dashboard_carInsurance.html`: Interactive dashboard for visualizing key metrics and data insights.
+- `README.md`: Project documentation.
+- `.gitignore`: Specifies files to ignore in the repository.
+- `car-insurance-claim-prediction.Rproj`: RStudio project file.
+
+
+
+
 ## Repository Structure
 
 - `ModellingCarInsurance_.R`: Main R script used for data preprocessing, model training, and evaluation.
