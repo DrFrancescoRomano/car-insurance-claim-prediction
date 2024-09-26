@@ -52,6 +52,7 @@ To install these packages, run:
 
 ```r
 install.packages(c("dplyr", "caret", "readr", "yardstick", "pROC", "boot"))
+'''
 
 ## Future Improvements
 
