@@ -89,4 +89,4 @@ install.packages(c("dplyr", "caret", "readr", "yardstick", "pROC", "boot"))
 If you have any questions or suggestions, feel free to contact me:
 
 - **Name**: Francesco Romano
-- **LinkedIn**: [Francesco Romano](https://www.linkedin.com/in/drfrancescoromano)
+- **LinkedIn**: [Francesco Romano](https://www.linkedin.com/in/francescoromano03/)
